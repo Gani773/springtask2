@@ -1,0 +1,175 @@
+*{
+	margin: 0;
+
+}
+
+
+.header1{
+	background-color: #4277A5;
+	height: 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	}
+
+.krug{
+	background-color: #2B4666;
+	border-radius: 10px;
+	 padding: 10px;
+    border: 1px solid #ccc; 
+    outline: none;
+    font-size: 15px;
+    margin-right: 90px;
+}
+
+.content{
+	background-color: #E7EAED;
+	display: flex;
+	margin: 30 0 0 40px;
+}
+.menu, ul{
+	
+	font-family: 'Roboto', Arial, sans-serif;
+	font-size: 20px;
+	color: #78A2C2;
+	font-weight: bold;
+	font-style: italic;
+	list-style-type:none;
+	margin-left: 10px;
+}
+
+.img1{
+	padding: 12px;
+	border: 1 px solid #E7EAED;
+	align-items: center;
+
+}
+.portfolio{
+	border: 1px solid #E7EAED;
+	width: 240px;
+	height: 320px;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+.Knopka{
+	
+
+	height: 30px;
+	background-color: #E7EAED;
+	margin-left: 55px;
+	color: #78A2C2;
+	font-weight: bold;
+
+}
+.button{
+	border: 1px solid red;
+}
+.info{
+	margin-left: 50px;
+	border-radius: 1 px solid black;
+	background-color: white;
+	padding: 10px;
+}
+.dotted-line {
+  border-bottom: 2px dotted black; /* Толщина, тип (точки), и цвет линии */
+  width: 100%; /* Ширина линии */
+  margin: 20px 0; /* Отступы сверху и снизу */
+}
+
+.title{
+	display: flex;
+	justify-content:space-around;
+
+}
+.spisok1{
+
+	font-size: 18px;
+}
+.spisok2{
+	font-size: 11px;
+	
+
+}
+.spisk{
+	display: flex;
+}
+.content2{
+	width: 300px;
+	height: 200px;
+	border: 1px solid black;
+}
+.zz{
+	display: flex;
+	
+	
+	
+}
+.zz1{
+	margin: 10 0 0 346;
+	border: 1px solid #E7EAED;
+	width: 300px;
+	height: 220px;
+	background-color: white;
+}
+.zz2{
+	margin: 10 0 0 50;
+	border: 1px solid #E7EAED;
+	width: 300px;
+	height: 220px;
+	background-color: white;
+
+}
+.dr{
+	display: flex;
+	justify-content:space-around;
+	margin-top: 10px;
+}
+.dr2{
+	display: flex;
+	justify-content:space-around;
+	margin-top: 10px;
+}
+.foto{
+	display: flex;
+	justify-content:space-around;
+	margin-top: 10px;
+}
+.drtext{
+	font-size: 15px;
+	margin: 10 10;
+	color: #9FA2C2;
+}
+.drtext2{
+	font-size: 15px;
+	
+	color: #9FA2C2;
+
+}
+.content3{
+	margin: 15 0;
+	width: 44%;
+	height: 120px;
+	margin-left: 635px;
+	
+	background-color: white;
+	padding: 10 10 10 10;
+
+}
+.content4{
+		display: flex;
+	align-items: center;
+}
+
+
+
+//// 2страница
+
+.Spisk2Str{
+	width: 50%;
+	background-color: red;
+	border: 1px solid black;
+}
+
+
+	
